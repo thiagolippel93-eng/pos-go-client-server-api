@@ -1,10 +1,10 @@
 ▶️ Como Executar
 1. Clonar o projeto
-git clone https://github.com/seu-usuario/desafio-go-cotacao.git
-cd desafio-go-cotacao
+git clone https://github.com/thiagolippel93-eng/pos-go-client-server-api
+cd client-server-api
 
 2. Inicializar módulo Go
-go mod init desafio-go
+go mod init client-server-api
 go mod tidy
 
 3. Executar o servidor
